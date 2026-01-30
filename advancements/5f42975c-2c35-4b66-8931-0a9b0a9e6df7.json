@@ -7,10 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2026-01-30 15:27:07 +0100",
       "minecraft:mangrove_swamp": "2026-01-30 12:26:54 +0100",
       "minecraft:sparse_jungle": "2026-01-30 13:10:51 +0100",
       "minecraft:lush_caves": "2026-01-30 14:27:23 +0100",
-      "minecraft:bamboo_jungle": "2026-01-30 14:14:09 +0100"
+      "minecraft:bamboo_jungle": "2026-01-30 14:14:09 +0100",
+      "minecraft:windswept_savanna": "2026-01-30 15:29:34 +0100",
+      "minecraft:plains": "2026-01-30 15:26:41 +0100"
     },
     "done": false
   },
@@ -35,6 +38,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2026-01-30 14:12:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2026-01-30 15:24:36 +0100"
     },
     "done": true
   },
@@ -77,6 +86,18 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2026-01-30 13:14:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2026-01-30 15:24:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2026-01-30 15:24:36 +0100"
     },
     "done": true
   },
@@ -131,6 +152,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2026-01-30 13:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2026-01-30 15:24:36 +0100"
     },
     "done": true
   },
@@ -257,6 +284,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2026-01-30 13:11:57 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-01-30 15:24:36 +0100"
     },
     "done": true
   },
@@ -544,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2026-01-30 15:25:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2026-01-30 13:10:51 +0100"
@@ -682,6 +721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2026-01-30 15:24:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/copper_helmet": {
     "criteria": {
       "has_copper_ingot": "2026-01-30 13:55:00 +0100"
@@ -778,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2026-01-30 15:24:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2026-01-30 13:57:11 +0100"
@@ -817,6 +868,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2026-01-30 13:47:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-01-30 15:25:59 +0100"
     },
     "done": true
   },
@@ -943,6 +1000,12 @@
   "minecraft:recipes/tools/copper_axe": {
     "criteria": {
       "has_copper_ingot": "2026-01-30 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2026-01-30 15:24:36 +0100"
     },
     "done": true
   },
@@ -1156,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2026-01-30 15:25:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2026-01-30 14:05:37 +0100"
@@ -1258,6 +1327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2026-01-30 15:24:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2026-01-30 14:12:25 +0100"
@@ -1285,6 +1360,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2026-01-30 13:10:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2026-01-30 15:24:25 +0100"
     },
     "done": true
   },
