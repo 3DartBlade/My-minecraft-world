@@ -8,8 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2026-01-30 15:27:07 +0100",
+      "minecraft:forest": "2026-01-30 15:46:12 +0100",
       "minecraft:mangrove_swamp": "2026-01-30 12:26:54 +0100",
       "minecraft:sparse_jungle": "2026-01-30 13:10:51 +0100",
+      "minecraft:jungle": "2026-01-30 15:42:05 +0100",
+      "minecraft:river": "2026-01-30 15:37:38 +0100",
       "minecraft:lush_caves": "2026-01-30 14:27:23 +0100",
       "minecraft:bamboo_jungle": "2026-01-30 14:14:09 +0100",
       "minecraft:windswept_savanna": "2026-01-30 15:29:34 +0100",
@@ -44,6 +47,12 @@
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2026-01-30 15:24:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2026-01-30 15:39:06 +0100"
     },
     "done": true
   },
@@ -275,6 +284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2026-01-30 15:43:13 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/copper_chain": {
     "criteria": {
       "has_copper_ingot": "2026-01-30 13:55:00 +0100"
@@ -460,6 +475,12 @@
   "minecraft:recipes/combat/copper_sword": {
     "criteria": {
       "has_copper_ingot": "2026-01-30 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2026-01-30 15:39:06 +0100"
     },
     "done": true
   },
@@ -748,6 +769,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2026-01-30 13:11:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-01-30 15:41:13 +0100"
     },
     "done": true
   },
@@ -1111,6 +1138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2026-01-30 15:39:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2026-01-30 13:11:09 +0100"
@@ -1228,6 +1261,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2026-01-30 14:05:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2026-01-30 15:43:13 +0100"
     },
     "done": true
   },
