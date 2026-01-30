@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:mangrove_swamp": "2026-01-30 12:26:54 +0100",
       "minecraft:sparse_jungle": "2026-01-30 13:10:51 +0100",
+      "minecraft:lush_caves": "2026-01-30 14:27:23 +0100",
       "minecraft:bamboo_jungle": "2026-01-30 14:14:09 +0100"
     },
     "done": false
@@ -79,6 +80,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-30 14:24:33 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2026-01-30 13:13:50 +0100"
@@ -118,6 +125,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2026-01-30 13:20:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-30 14:24:33 +0100"
     },
     "done": true
   },
@@ -184,6 +197,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2026-01-30 14:12:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
     },
     "done": true
   },
@@ -277,6 +296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2026-01-30 13:51:14 +0100"
@@ -340,6 +365,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2026-01-30 14:12:07 +0100",
+      "minecraft:spider": "2026-01-30 14:29:04 +0100",
       "minecraft:zombie": "2026-01-30 13:22:32 +0100"
     },
     "done": false
@@ -392,6 +418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2026-01-30 14:05:37 +0100"
@@ -419,6 +451,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2026-01-30 14:12:25 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
     },
     "done": true
   },
@@ -503,6 +541,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2026-01-30 13:25:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
     },
     "done": true
   },
@@ -944,6 +988,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2026-01-30 13:36:18 +0100"
@@ -1019,6 +1069,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2026-01-30 13:11:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2026-01-30 14:19:58 +0100"
     },
     "done": true
   },
@@ -1118,9 +1174,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2026-01-30 14:14:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2026-01-30 14:29:05 +0100"
     },
     "done": true
   },
