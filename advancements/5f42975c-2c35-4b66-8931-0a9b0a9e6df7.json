@@ -14,6 +14,7 @@
       "minecraft:jungle": "2026-01-30 15:42:05 +0100",
       "minecraft:river": "2026-01-30 15:37:38 +0100",
       "minecraft:lush_caves": "2026-01-30 14:27:23 +0100",
+      "minecraft:savanna": "2026-01-30 15:47:35 +0100",
       "minecraft:bamboo_jungle": "2026-01-30 14:14:09 +0100",
       "minecraft:windswept_savanna": "2026-01-30 15:29:34 +0100",
       "minecraft:plains": "2026-01-30 15:26:41 +0100"
@@ -420,7 +421,8 @@
     "criteria": {
       "minecraft:skeleton": "2026-01-30 14:12:07 +0100",
       "minecraft:spider": "2026-01-30 14:29:04 +0100",
-      "minecraft:zombie": "2026-01-30 13:22:32 +0100"
+      "minecraft:zombie": "2026-01-30 13:22:32 +0100",
+      "minecraft:slime": "2026-01-30 16:09:27 +0100"
     },
     "done": false
   },
@@ -826,6 +828,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-01-30 16:09:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-01-30 15:51:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2026-01-30 14:08:21 +0100"
@@ -1129,6 +1143,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2026-01-30 14:08:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-30 16:09:37 +0100"
     },
     "done": true
   },
